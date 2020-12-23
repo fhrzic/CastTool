@@ -1,5 +1,7 @@
 # CastTool
-Preview of the cast suppression tool
+Preview of the cast suppression tool.
+
+---
 
 The "Data" folder contains two subdirectories:
 
