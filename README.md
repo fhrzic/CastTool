@@ -12,7 +12,7 @@ In the archive "Data.zip," both subdirectories are compressed. This archive need
 
 ---
 
-In the "Notebook" folder, you can find "Cast_tool_preview.ipynb" that is ready to be run on the Google collab platform. You can follow the instructions in the notebook to make it run (For this purpose, we have also provided a ".html" version of the notebook." If you want to have smoother performance, you can run "Cast_tool_preview.ipynb" locally on your PC. 
+In the "Notebook" folder, you can find "Cast_tool_preview.ipynb" that is ready to be run on the Google collab platform. You can follow the instructions in the notebook to make it run (For this purpose, we have also provided a ".html" version of the notebook." If you want to have smoother performance, you can run "Cast_tool_previewOpenCV.ipynb" locally on your PC. 
 
 ---
 
