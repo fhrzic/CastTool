@@ -1,5 +1,6 @@
 # CastTool
 Preview of the cast suppression tool.
+The Cycle-GAN model source training code was obtained from the following GitHub repository: [https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix
 
 ---
 
